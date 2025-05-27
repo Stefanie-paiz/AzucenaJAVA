@@ -17,7 +17,6 @@ public class MayorMenor {
             if (num > mayor) mayor = num;
             if (num < menor) menor = num;
         }
-
         System.out.println("Mayor: " + mayor);
         System.out.println("Menor: " + menor);
     }
